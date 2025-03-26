@@ -7,5 +7,5 @@
 3. **Armazenamento de senhas**: Agora, as senhas são armazenadas de forma segura utilizando hash SHA256.
 
 ### Integrantes
-Gabriela Lenz -
-Pablo Oliveira
+Gabriela Lenz(1134940) -
+Pablo Oliveira(1134335)
